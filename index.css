@@ -1,4 +1,22 @@
 *{
     margin: 0;
     padding: 0;
+    background-color:white;
+}
+.menu{
+    font-family: 'Nunito', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-size: 20px;
+font-weight: 500;
+display: flex;
+padding: 30px;
+}
+.menu2{
+    
+   
+    font-size: 25px;
+    font-weight: 600;
+}
+.menu1{
+    display: ;
 }
